@@ -5,13 +5,13 @@ import CraneDropdown from "./CraneDropdown";
 import LoadDropdown from "./LoadDropdown";
 import Title from "./Title";
 import NumberInput from "./NumberInput";
-import TanCalculator from "./TanCalculator";
+import BCCalculator from "./BCCalculator";
 
  function App() {
   return (
     <div>
      
-      <TanCalculator />
+      <BCCalculator />
     </div>
   );
 }
